@@ -5,6 +5,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -r requirements.txt
-      - run: python tests/validate.py
       
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Generate databank placeholders
+        run: python scripts/populate_bank.py  # <-- Add this step
+        
+      - name: Run Integrity Check
+        run: python tests/validate.py
