@@ -1,4 +1,7 @@
 # PROV3RBS
+<p align="center">
+  <img src="1782488010039.png" alt="Profile Image" width="400"/>
+</p>
 
 > An open-source hub for 915 curated proverbs, engineered for seamless collaboration. Featuring real-time messaging and integrated video study rooms, it enables distributed teams to share wisdom. Built for scholars, this secure, high-performance ecosystem provides the optimal environment for global peer-to-peer learning and deep intellectual growth.
 
