@@ -1,2 +1,10 @@
 # PROV3RBS
-PROV3RBS: An open-source ecosystem hosting 915 curated proverbs. Designed for deep learning, the platform features real-time messaging and integrated video study rooms. Facilitate collaborative growth, share wisdom, and connect with peers in a high-performance environment. The ultimate hub for distributed scholars and modern wisdom-seekers.
+
+An open-source hub housing 915 curated proverbs, custom-built for high-performance peer learning. Features live WebSocket messaging, localized meta structures, and WebRTC streaming configurations for remote study environments.
+
+## Quickstart
+
+### 1. Set Up Environment Variables
+Copy the example file and populate it with your local configurations and LiveKit keys:
+```bash
+cp .env.example .env
