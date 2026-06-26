@@ -1,0 +1,40 @@
+:root {
+    --bg-color: #0d1117;
+    --text-color: #c9d1d9;
+    --accent-color: #58a6ff;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#chat-box {
+    width: 80%;
+    max-width: 600px;
+    height: 300px;
+    border: 1px solid #30363d;
+    overflow-y: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #161b22;
+}
+
+input, button {
+    padding: 10px;
+    background-color: #21262d;
+    color: var(--text-color);
+    border: 1px solid #30363d;
+}
+
+button {
+    cursor: pointer;
+    color: var(--accent-color);
+    font-weight: bold;
+}
