@@ -4,6 +4,60 @@
 
 ---
 
+### 📦 Core Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ⚙️ Core Systems
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/uvicorn-4051B5?style=for-the-badge&logo=python&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=google-chrome&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F1F?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 💻 Platform software & Hardware Architecture
+
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Async IO](https://img.shields.io/badge/Asynchronous-IO-blueviolet?style=for-the-badge&logo=python)
+
+### 🛠️ DevOps, Infrastructure & Build Tools
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-4196EC?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU%20Make-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### ⚡ Low-Level Infrastructure & Performance
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Real Time Multiplexing](https://img.shields.io/badge/Multiplexing-Active-success?style=for-the-badge)
+
+### 🛡️ Cybersecurity & Offensive Auditing
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Dotenv](https://img.shields.io/badge/.ENV-Secure-yellowgreen?style=for-the-badge)
+
+### 🧠 Artificial Intelligence & Quantum
+
+![Structured Dataset](https://img.shields.io/badge/Dataset-915%20Tokens-orange?style=for-the-badge&logo=databricks&logoColor=white)
+![NLP Prompt Ready](https://img.shields.io/badge/NLP-LLM%20Ready-lightgrey?style=for-the-badge)
+
+### ☁️ Cloud Providers
+
+![LiveKit Cloud](https://img.shields.io/badge/LiveKit%20Cloud-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 👥 Client Frameworks
+
+![Vanilla JS ES6](https://img.shields.io/badge/Vanilla%20JS-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![LiveKit Client SDK](https://img.shields.io/badge/LiveKit%20SDK-Client-brightgreen?style=for-the-badge)
+
 ## ⚡ Why is PROV3RBS Cool?
 
 * **Modern Tech Stack:** Utilizes **FastAPI** for ultra-fast, asynchronous backend performance, coupled with **WebSockets** for real-time, low-latency chat.
